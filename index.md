@@ -1,2 +1,0 @@
-## Nooksack
-This is cool.
